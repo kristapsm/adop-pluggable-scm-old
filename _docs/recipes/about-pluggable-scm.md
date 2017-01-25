@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: What is Pluggable SCM Library
+title: About Pluggable SCM Library
 permalink: /docs/recipes/about-pluggable-scm/
 ---
 
@@ -53,3 +53,10 @@ The same way it should be done for example using _SCMProvider_ interface
 ```
 
 and proceed with defining your own classes for creating repositories etc. and defining _get_ and _trigger_ closures.
+
+---
+
+More info:
+
+- [Updating Load_Cartridge job](https://kristapsm.github.io/adop-pluggable-scm/docs/recipes/updating-load-cartridge/)
+- [Adding a Pluggable SCM](https://kristapsm.github.io/adop-cartridges-cookbook/docs/recipes/adding-a-pluggable-scm/)
