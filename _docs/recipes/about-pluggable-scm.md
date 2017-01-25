@@ -21,7 +21,7 @@ The _pluggable.scm_ package contains:
 * _SCMProviderHandler_ - a class responsible for dispatching SCM provider requests to the correct SCM provider factory
 * _SCMProviderInfo_ - annotation to mark SCM providers
 
-More specific information can be found in [Javadocs](https://kristapsm.github.io/pluggable-scm-library/groovydocs/)
+More specific information can be found in [Javadocs](https://kristapsm.github.io/adop-pluggable-scm/groovydocs/)
 
 # Using Pluggable SCM Library
 
