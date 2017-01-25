@@ -1,0 +1,4 @@
+- title: Pluggable SCM Library
+  docs:
+  - recipes/about-pluggable-scm
+  - recipes/updating-load-cartridge
