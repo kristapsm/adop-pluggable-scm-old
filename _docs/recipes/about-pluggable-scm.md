@@ -10,7 +10,7 @@ By enabling a standard interface, Java reflection can be used to return dynamic 
 
 There are two parts of ADOP that are affected by using this library:
 
-* [Load_Cartridge job](todo:url)
+* [Load_Cartridge job](https://kristapsm.github.io/adop-pluggable-scm/docs/recipes/updating-load-cartridge/)
 * [Cartridge DSL code](https://kristapsm.github.io/adop-cartridges-cookbook/docs/recipes/adding-a-pluggable-scm/)
 
 The _pluggable.scm_ package contains:
